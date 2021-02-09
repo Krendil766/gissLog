@@ -1,0 +1,704 @@
+ 01:20:03   Start GIS Server x64 Standard v.9.0.0, key = 3167  08/02/2021 01:20:01
+     01:20:03   [PROTECT] NET = 0
+     01:20:03   Mapaccess library version: 20191218
+---> 01:20:03   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 01:20:03   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     01:20:03   Port number : 2047
+     01:20:03   Common rsc path: /usr/gisserver/CommonRsc/
+     01:20:03   User count = 13
+     01:20:03   DocStorage count = 0
+     01:20:03   Depot count = 0
+     01:20:03   DBConnection count = 0
+     01:20:03   Map count = 13
+     01:20:03   Matrix count = 0
+     01:20:03   Raster count = 0
+     01:20:03   Folder count = 0
+     01:20:03   Atlas count = 0
+     01:20:03   Role count = 14
+---> 01:20:03   End of reading parameters
+---> 01:20:03   The config.xml are not set - /usr/gisserver/config.xml
+---> 01:20:03   Connect timeout (min): 15
+     01:20:03   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     01:20:03   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+
+
+---> 02:20:03   Start GIS Server x64 Standard v.9.0.0, key = 3167  08/02/2021 02:20:01
+     02:20:03   [PROTECT] NET = 0
+     02:20:03   Mapaccess library version: 20191218
+---> 02:20:03   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 02:20:03   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     02:20:03   Port number : 2047
+     02:20:03   Common rsc path: /usr/gisserver/CommonRsc/
+     02:20:03   User count = 13
+     02:20:03   DocStorage count = 0
+     02:20:03   Depot count = 0
+     02:20:03   DBConnection count = 0
+     02:20:03   Map count = 13
+     02:20:03   Matrix count = 0
+     02:20:03   Raster count = 0
+     02:20:03   Folder count = 0
+     02:20:03   Atlas count = 0
+     02:20:03   Role count = 14
+---> 02:20:03   End of reading parameters
+---> 02:20:03   The config.xml are not set - /usr/gisserver/config.xml
+---> 02:20:03   Connect timeout (min): 15
+     02:20:03   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     02:20:03   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+
+
+---> 03:20:03   Start GIS Server x64 Standard v.9.0.0, key = 3167  09/02/2021 03:20:01
+     03:20:03   [PROTECT] NET = 0
+     03:20:03   Mapaccess library version: 20191218
+---> 03:20:03   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 03:20:03   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     03:20:03   Port number : 2047
+     03:20:03   Common rsc path: /usr/gisserver/CommonRsc/
+     03:20:03   User count = 13
+     03:20:03   DocStorage count = 0
+     03:20:03   Depot count = 0
+     03:20:03   DBConnection count = 0
+     03:20:03   Map count = 13
+     03:20:03   Matrix count = 0
+     03:20:03   Raster count = 0
+     03:20:03   Folder count = 0
+     03:20:03   Atlas count = 0
+     03:20:03   Role count = 14
+---> 03:20:03   End of reading parameters
+---> 03:20:03   The config.xml are not set - /usr/gisserver/config.xml
+---> 03:20:03   Connect timeout (min): 15
+     03:20:03   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     03:20:03   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+
+
+---> 04:20:03   Start GIS Server x64 Standard v.9.0.0, key = 3167  09/02/2021 04:20:01
+     04:20:03   [PROTECT] NET = 0
+     04:20:03   Mapaccess library version: 20191218
+---> 04:20:03   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 04:20:03   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     04:20:03   Port number : 2047
+     04:20:03   Common rsc path: /usr/gisserver/CommonRsc/
+     04:20:03   User count = 13
+     04:20:03   DocStorage count = 0
+     04:20:03   Depot count = 0
+     04:20:03   DBConnection count = 0
+     04:20:03   Map count = 13
+     04:20:03   Matrix count = 0
+     04:20:03   Raster count = 0
+     04:20:03   Folder count = 0
+     04:20:03   Atlas count = 0
+     04:20:03   Role count = 14
+---> 04:20:03   End of reading parameters
+---> 04:20:03   The config.xml are not set - /usr/gisserver/config.xml
+---> 04:20:03   Connect timeout (min): 15
+     04:20:03   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     04:20:03   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+
+
+---> 05:20:03   Start GIS Server x64 Standard v.9.0.0, key = 3167  09/02/2021 05:20:01
+     05:20:03   [PROTECT] NET = 0
+     05:20:03   Mapaccess library version: 20191218
+---> 05:20:03   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 05:20:03   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     05:20:03   Port number : 2047
+     05:20:03   Common rsc path: /usr/gisserver/CommonRsc/
+     05:20:03   User count = 13
+     05:20:03   DocStorage count = 0
+     05:20:03   Depot count = 0
+     05:20:03   DBConnection count = 0
+     05:20:03   Map count = 13
+     05:20:03   Matrix count = 0
+     05:20:03   Raster count = 0
+     05:20:03   Folder count = 0
+     05:20:03   Atlas count = 0
+     05:20:03   Role count = 14
+---> 05:20:03   End of reading parameters
+---> 05:20:03   The config.xml are not set - /usr/gisserver/config.xml
+---> 05:20:03   Connect timeout (min): 15
+     05:20:03   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     05:20:03   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+
+
+---> 06:20:02   Start GIS Server x64 Standard v.9.0.0, key = 3167  09/02/2021 06:20:01
+     06:20:02   [PROTECT] NET = 0
+     06:20:03   Mapaccess library version: 20191218
+---> 06:20:03   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 06:20:03   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     06:20:03   Port number : 2047
+     06:20:03   Common rsc path: /usr/gisserver/CommonRsc/
+     06:20:03   User count = 13
+     06:20:03   DocStorage count = 0
+     06:20:03   Depot count = 0
+     06:20:03   DBConnection count = 0
+     06:20:03   Map count = 13
+     06:20:03   Matrix count = 0
+     06:20:03   Raster count = 0
+     06:20:03   Folder count = 0
+     06:20:03   Atlas count = 0
+     06:20:03   Role count = 14
+---> 06:20:03   End of reading parameters
+---> 06:20:03   The config.xml are not set - /usr/gisserver/config.xml
+---> 06:20:03   Connect timeout (min): 15
+     06:20:03   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     06:20:03   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+
+
+---> 07:20:03   Start GIS Server x64 Standard v.9.0.0, key = 3167  09/02/2021 07:20:01
+     07:20:03   [PROTECT] NET = 0
+     07:20:03   Mapaccess library version: 20191218
+---> 07:20:03   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 07:20:03   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     07:20:03   Port number : 2047
+     07:20:03   Common rsc path: /usr/gisserver/CommonRsc/
+     07:20:03   User count = 13
+     07:20:03   DocStorage count = 0
+     07:20:03   Depot count = 0
+     07:20:03   DBConnection count = 0
+     07:20:03   Map count = 13
+     07:20:03   Matrix count = 0
+     07:20:03   Raster count = 0
+     07:20:03   Folder count = 0
+     07:20:03   Atlas count = 0
+     07:20:03   Role count = 14
+---> 07:20:03   End of reading parameters
+---> 07:20:03   The config.xml are not set - /usr/gisserver/config.xml
+---> 07:20:03   Connect timeout (min): 15
+     07:20:03   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     07:20:03   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+
+
+---> 08:20:03   Start GIS Server x64 Standard v.9.0.0, key = 3167  09/02/2021 08:20:01
+     08:20:03   [PROTECT] NET = 0
+     08:20:03   Mapaccess library version: 20191218
+---> 08:20:03   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 08:20:03   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     08:20:03   Port number : 2047
+     08:20:03   Common rsc path: /usr/gisserver/CommonRsc/
+     08:20:03   User count = 13
+     08:20:03   DocStorage count = 0
+     08:20:03   Depot count = 0
+     08:20:03   DBConnection count = 0
+     08:20:03   Map count = 13
+     08:20:03   Matrix count = 0
+     08:20:03   Raster count = 0
+     08:20:03   Folder count = 0
+     08:20:03   Atlas count = 0
+     08:20:03   Role count = 14
+---> 08:20:03   End of reading parameters
+---> 08:20:03   The config.xml are not set - /usr/gisserver/config.xml
+---> 08:20:03   Connect timeout (min): 15
+     08:20:03   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     08:20:03   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+
+
+---> 09:20:03   Start GIS Server x64 Standard v.9.0.0, key = 3167  09/02/2021 09:20:01
+     09:20:03   [PROTECT] NET = 0
+     09:20:03   Mapaccess library version: 20191218
+---> 09:20:03   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 09:20:03   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     09:20:03   Port number : 2047
+     09:20:03   Common rsc path: /usr/gisserver/CommonRsc/
+     09:20:03   User count = 13
+     09:20:03   DocStorage count = 0
+     09:20:03   Depot count = 0
+     09:20:03   DBConnection count = 0
+     09:20:03   Map count = 13
+     09:20:03   Matrix count = 0
+     09:20:03   Raster count = 0
+     09:20:03   Folder count = 0
+     09:20:03   Atlas count = 0
+     09:20:03   Role count = 14
+---> 09:20:03   End of reading parameters
+---> 09:20:03   The config.xml are not set - /usr/gisserver/config.xml
+---> 09:20:03   Connect timeout (min): 15
+     09:20:03   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     09:20:03   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+
+
+---> 10:20:03   Start GIS Server x64 Standard v.9.0.0, key = 3167  09/02/2021 10:20:01
+     10:20:03   [PROTECT] NET = 0
+     10:20:03   Mapaccess library version: 20191218
+---> 10:20:03   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 10:20:03   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     10:20:03   Port number : 2047
+     10:20:03   Common rsc path: /usr/gisserver/CommonRsc/
+     10:20:03   User count = 13
+     10:20:03   DocStorage count = 0
+     10:20:03   Depot count = 0
+     10:20:03   DBConnection count = 0
+     10:20:03   Map count = 13
+     10:20:03   Matrix count = 0
+     10:20:03   Raster count = 0
+     10:20:03   Folder count = 0
+     10:20:03   Atlas count = 0
+     10:20:03   Role count = 14
+---> 10:20:03   End of reading parameters
+---> 10:20:03   The config.xml are not set - /usr/gisserver/config.xml
+---> 10:20:03   Connect timeout (min): 15
+     10:20:03   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     10:20:03   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+     11:13:01   [001] Connection with a server is open. Free memory (Kb) = 569356
+     11:13:07   [001] Begin registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     11:13:07   [001] Registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     11:13:07   [001] User = rhbz. Open map. Name = 236_РХБЗ.sitx
+     11:13:07   [001] [01] Open map. number = 1. Path = /GISS/Sit/Sloi_Lis2/236_РХБЗ.sitx
+     11:13:07   [001] [01] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     11:13:08   [001] User = rhbz. Open map. Name = 211_ГрОПП.sitx
+     11:13:08   [001] [02] Open map. Read only.
+     11:13:08   [001] [02] Open map. number = 2. Path = /GISS/Sit/Sloi_Lis2/211_ГрОПП.sitx
+     11:13:08   [001] [02] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     11:13:08   [001] User = rhbz. Open map. Name = 214_ЦИ.sitx
+     11:13:08   [001] [03] Open map. Read only.
+     11:13:08   [001] [03] Open map. number = 3. Path = /GISS/Sit/Sloi_Lis2/214_ЦИ.sitx
+     11:13:08   [001] [03] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+
+
+---> 11:20:02   Start GIS Server x64 Standard v.9.0.0, key = 3167  09/02/2021 11:20:01
+     11:20:02   [PROTECT] NET = 0
+     11:20:02   Mapaccess library version: 20191218
+---> 11:20:02   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 11:20:02   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     11:20:02   Port number : 2047
+     11:20:02   Common rsc path: /usr/gisserver/CommonRsc/
+     11:20:02   User count = 13
+     11:20:02   DocStorage count = 0
+     11:20:02   Depot count = 0
+     11:20:02   DBConnection count = 0
+     11:20:02   Map count = 13
+     11:20:02   Matrix count = 0
+     11:20:02   Raster count = 0
+     11:20:02   Folder count = 0
+     11:20:02   Atlas count = 0
+     11:20:02   Role count = 14
+---> 11:20:02   End of reading parameters
+---> 11:20:02   The config.xml are not set - /usr/gisserver/config.xml
+---> 11:20:02   Connect timeout (min): 15
+     11:20:02   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     11:20:02   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+     11:21:00   [001] Connection with a server is open. Free memory (Kb) = 582708
+     11:21:00   [001] Begin registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     11:21:00   [001] Registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     11:21:00   [001] Close map, number = 3120748
+     11:21:00   [001] User = rhbz. Open map. Name = 236_РХБЗ.sitx
+     11:21:00   [001] [01] Open map. number = 1. Path = /GISS/Sit/Sloi_Lis2/236_РХБЗ.sitx
+     11:21:00   [001] [01] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+>>>> 11:21:00   [001] Check mode error. Access denied. data number = 3120749
+     11:21:00   [001] User = rhbz. Open map. Name = 211_ГрОПП.sitx
+     11:21:00   [001] [02] Open map. Read only.
+     11:21:00   [001] [02] Open map. number = 2. Path = /GISS/Sit/Sloi_Lis2/211_ГрОПП.sitx
+     11:21:00   [001] [02] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+>>>> 11:21:00   [001] Check mode error. Access denied. data number = 3120750
+     11:21:00   [001] User = rhbz. Open map. Name = 214_ЦИ.sitx
+     11:21:00   [001] [03] Open map. Read only.
+     11:21:00   [001] [03] Open map. number = 3. Path = /GISS/Sit/Sloi_Lis2/214_ЦИ.sitx
+     11:21:00   [001] [03] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     11:22:24   [002] Connection with a server is open. Free memory (Kb) = 566988
+     11:22:24   [002] Close map, number = -59497
+     11:22:36   [002] Free connect timeout is over. Inactive time before user registration (sec): 11, ip = 192.170.3.31
+     11:22:36   [002] Connection with a server is close. force = 0
+     11:44:31   [002] Connection with a server is open. Free memory (Kb) = 555052
+     11:44:31   [002] Begin registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     11:44:31   [002] Registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     11:50:47   [003] Connection with a server is open. Free memory (Kb) = 541532
+     11:50:47   [003] Begin registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     11:50:47   [003] Registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     11:50:47   [003] Close map, number = 1
+     11:50:47   [003] User = rhbz. Open map. Name = 236_РХБЗ.sitx
+     11:50:47   [003] [01] Open map. number = 1. Path = /GISS/Sit/Sloi_Lis2/236_РХБЗ.sitx
+     11:50:47   [003] [01] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+>>>> 11:50:47   [003] Check mode error. Access denied. data number = 2
+     11:50:47   [003] User = rhbz. Open map. Name = 211_ГрОПП.sitx
+     11:50:47   [003] [02] Open map. Read only.
+     11:50:47   [003] [02] Open map. number = 2. Path = /GISS/Sit/Sloi_Lis2/211_ГрОПП.sitx
+     11:50:47   [003] [02] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+>>>> 11:50:47   [003] Check mode error. Access denied. data number = 3
+     11:50:47   [003] User = rhbz. Open map. Name = 214_ЦИ.sitx
+     11:50:47   [003] [03] Open map. Read only.
+     11:50:47   [003] [03] Open map. number = 3. Path = /GISS/Sit/Sloi_Lis2/214_ЦИ.sitx
+     11:50:47   [003] [03] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     11:51:08   [004] Connection with a server is open. Free memory (Kb) = 541596
+     11:51:08   [004] Begin registration of the user. User = ipb@DESKTOP-AT1NSFT
+     11:51:08   [004] Registration of the user. User = ipb@DESKTOP-AT1NSFT
+     11:52:49   [001] Connect timeout is over. Inactive time (min): 15
+     11:52:49   [001] Connection with a server is close. force = 0
+     11:53:33   [004] User = ipb. Open map. Name = 211_ГрОПП.sitx
+     11:53:33   [004] [02] Open map. Read only.
+     11:53:33   [004] [02] Open map. number = 1. Path = /GISS/Sit/Sloi_Lis2/211_ГрОПП.sitx
+     11:53:33   [004] [02] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     11:54:22   [004] User = ipb. Open map. Name = 214_ЦИ.sitx
+     11:54:22   [004] [03] Open map. Read only.
+     11:54:22   [004] [03] Open map. number = 2. Path = /GISS/Sit/Sloi_Lis2/214_ЦИ.sitx
+     11:54:22   [004] [03] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     11:54:37   [004] User = ipb. Open map. Name = 213_ИПбиМ.sitx
+     11:54:37   [004] [04] Open map. number = 3. Path = /GISS/Sit/Sloi_Lis2/213_ИПбиМ.sitx
+     11:54:37   [004] [04] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     12:00:00   [002] Connect timeout is over. Inactive time (min): 15
+     12:00:00   [002] Connection with a server is close. force = 0
+     12:09:41   [004] Connect timeout is over. Inactive time (min): 15
+     12:09:41   [004] Connection with a server is close. force = 0
+     12:11:00   [001] Connection with a server is open. Free memory (Kb) = 532868
+     12:11:00   [001] Begin registration of the user. User = ipb@DESKTOP-AT1NSFT
+     12:11:00   [001] Registration of the user. User = ipb@DESKTOP-AT1NSFT
+
+
+---> 12:20:03   Start GIS Server x64 Standard v.9.0.0, key = 3167  09/02/2021 12:20:01
+     12:20:03   [PROTECT] NET = 0
+     12:20:03   Mapaccess library version: 20191218
+---> 12:20:03   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 12:20:03   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     12:20:03   Port number : 2047
+     12:20:03   Common rsc path: /usr/gisserver/CommonRsc/
+     12:20:03   User count = 13
+     12:20:03   DocStorage count = 0
+     12:20:03   Depot count = 0
+     12:20:03   DBConnection count = 0
+     12:20:03   Map count = 13
+     12:20:03   Matrix count = 0
+     12:20:03   Raster count = 0
+     12:20:03   Folder count = 0
+     12:20:03   Atlas count = 0
+     12:20:03   Role count = 14
+---> 12:20:03   End of reading parameters
+---> 12:20:03   The config.xml are not set - /usr/gisserver/config.xml
+---> 12:20:03   Connect timeout (min): 15
+     12:20:03   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     12:20:03   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+     12:20:04   [001] Connection with a server is open. Free memory (Kb) = 556564
+     12:20:04   [001] Begin registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     12:20:04   [001] Registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     12:20:04   [001] Close map, number = 56288
+     12:20:04   [001] User = rhbz. Open map. Name = 214_ЦИ.sitx
+     12:20:04   [001] [01] Open map. Read only.
+     12:20:04   [001] [01] Open map. number = 1. Path = /GISS/Sit/Sloi_Lis2/214_ЦИ.sitx
+     12:20:04   [001] [01] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+>>>> 12:20:32   [001] Check mode error. Access denied. data number = 56286
+     12:20:32   [001] User = rhbz. Open map. Name = 236_РХБЗ.sitx
+     12:20:32   [001] [02] Open map. number = 2. Path = /GISS/Sit/Sloi_Lis2/236_РХБЗ.sitx
+     12:20:32   [001] [02] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     12:25:23   [002] Connection with a server is open. Free memory (Kb) = 535004
+     12:25:23   [002] Begin registration of the user. User = ipb@DESKTOP-AT1NSFT
+     12:25:23   [002] Registration of the user. User = ipb@DESKTOP-AT1NSFT
+     12:50:03   [002] Connect timeout is over. Inactive time (min): 15
+     12:50:03   [002] Connection with a server is close. force = 0
+     12:54:36   [002] Connection with a server is open. Free memory (Kb) = 566224
+     12:54:36   [002] Begin registration of the user. User = ipb@DESKTOP-AT1NSFT
+     12:54:36   [002] Registration of the user. User = ipb@DESKTOP-AT1NSFT
+     13:03:22   [003] Connection with a server is open. Free memory (Kb) = 562332
+     13:03:22   [003] Begin registration of the user. User = rvia@DESKTOP-QT1HH39
+     13:03:22   [003] Registration of the user. User = rvia@DESKTOP-QT1HH39
+     13:03:25   [003] User = rvia. Open map. Name = 234_РВиА.sitx
+     13:03:25   [003] [03] Open map. number = 1. Path = /GISS/Sit/Sloi_Lis2/234_РВиА.sitx
+     13:03:25   [003] [03] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     13:03:26   [003] [03] Close map, number = 1
+---> 13:05:30   [003] Read socket error, connection was closed on the other side
+     13:05:30   [003] Connection with a server is close. force = 0
+     13:10:11   [002] Connect timeout is over. Inactive time (min): 15
+     13:10:11   [002] Connection with a server is close. force = 0
+
+
+---> 13:20:02   Start GIS Server x64 Standard v.9.0.0, key = 3167  09/02/2021 13:20:01
+     13:20:02   [PROTECT] NET = 0
+     13:20:03   Mapaccess library version: 20191218
+---> 13:20:03   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 13:20:03   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     13:20:03   Port number : 2047
+     13:20:03   Common rsc path: /usr/gisserver/CommonRsc/
+     13:20:03   User count = 13
+     13:20:03   DocStorage count = 0
+     13:20:03   Depot count = 0
+     13:20:03   DBConnection count = 0
+     13:20:03   Map count = 13
+     13:20:03   Matrix count = 0
+     13:20:03   Raster count = 0
+     13:20:03   Folder count = 0
+     13:20:03   Atlas count = 0
+     13:20:03   Role count = 14
+---> 13:20:03   End of reading parameters
+---> 13:20:03   The config.xml are not set - /usr/gisserver/config.xml
+---> 13:20:03   Connect timeout (min): 15
+     13:20:03   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     13:20:03   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+     13:20:05   [001] Connection with a server is open. Free memory (Kb) = 581992
+     13:20:05   [001] Begin registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     13:20:05   [001] Registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     13:20:05   [001] Close map, number = -1681
+     13:20:05   [001] User = rhbz. Open map. Name = 214_ЦИ.sitx
+     13:20:05   [001] [01] Open map. Read only.
+     13:20:05   [001] [01] Open map. number = 1. Path = /GISS/Sit/Sloi_Lis2/214_ЦИ.sitx
+     13:20:05   [001] [01] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+>>>> 13:20:33   [001] Check mode error. Access denied. data number = -1680
+     13:20:33   [001] User = rhbz. Open map. Name = 236_РХБЗ.sitx
+     13:20:33   [001] [02] Open map. number = 2. Path = /GISS/Sit/Sloi_Lis2/236_РХБЗ.sitx
+     13:20:33   [001] [02] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     13:44:01   [002] Connection with a server is open. Free memory (Kb) = 560136
+     13:44:01   [002] Begin registration of the user. User = ipb@DESKTOP-AT1NSFT
+     13:44:01   [002] Registration of the user. User = ipb@DESKTOP-AT1NSFT
+     13:59:42   [002] Connect timeout is over. Inactive time (min): 15
+     13:59:42   [002] Connection with a server is close. force = 0
+     14:01:30   [002] Connection with a server is open. Free memory (Kb) = 555552
+     14:01:30   [002] Begin registration of the user. User = ipb@DESKTOP-AT1NSFT
+     14:01:30   [002] Registration of the user. User = ipb@DESKTOP-AT1NSFT
+
+
+---> 14:20:03   Start GIS Server x64 Standard v.9.0.0, key = 3167  09/02/2021 14:20:01
+     14:20:03   [PROTECT] NET = 0
+     14:20:03   Mapaccess library version: 20191218
+---> 14:20:03   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 14:20:03   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     14:20:03   Port number : 2047
+     14:20:03   Common rsc path: /usr/gisserver/CommonRsc/
+     14:20:03   User count = 13
+     14:20:03   DocStorage count = 0
+     14:20:03   Depot count = 0
+     14:20:03   DBConnection count = 0
+     14:20:03   Map count = 13
+     14:20:03   Matrix count = 0
+     14:20:03   Raster count = 0
+     14:20:03   Folder count = 0
+     14:20:03   Atlas count = 0
+     14:20:03   Role count = 14
+---> 14:20:03   End of reading parameters
+---> 14:20:03   The config.xml are not set - /usr/gisserver/config.xml
+---> 14:20:03   Connect timeout (min): 15
+     14:20:03   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     14:20:03   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+     14:20:07   [001] Connection with a server is open. Free memory (Kb) = 577284
+     14:20:07   [001] Begin registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     14:20:07   [001] Registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     14:20:07   [001] Close map, number = -1686
+     14:20:07   [001] User = rhbz. Open map. Name = 214_ЦИ.sitx
+     14:20:07   [001] [01] Open map. Read only.
+     14:20:07   [001] [01] Open map. number = 1. Path = /GISS/Sit/Sloi_Lis2/214_ЦИ.sitx
+     14:20:07   [001] [01] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+>>>> 14:20:35   [001] Check mode error. Access denied. data number = -1685
+     14:20:35   [001] User = rhbz. Open map. Name = 236_РХБЗ.sitx
+     14:20:35   [001] [02] Open map. number = 2. Path = /GISS/Sit/Sloi_Lis2/236_РХБЗ.sitx
+     14:20:35   [001] [02] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+
+
+---> 15:20:03   Start GIS Server x64 Standard v.9.0.0, key = 3167  09/02/2021 15:20:01
+     15:20:03   [PROTECT] NET = 0
+     15:20:03   Mapaccess library version: 20191218
+---> 15:20:03   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 15:20:03   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     15:20:03   Port number : 2047
+     15:20:03   Common rsc path: /usr/gisserver/CommonRsc/
+     15:20:03   User count = 13
+     15:20:03   DocStorage count = 0
+     15:20:03   Depot count = 0
+     15:20:03   DBConnection count = 0
+     15:20:03   Map count = 13
+     15:20:03   Matrix count = 0
+     15:20:03   Raster count = 0
+     15:20:03   Folder count = 0
+     15:20:03   Atlas count = 0
+     15:20:03   Role count = 14
+---> 15:20:03   End of reading parameters
+---> 15:20:03   The config.xml are not set - /usr/gisserver/config.xml
+---> 15:20:03   Connect timeout (min): 15
+     15:20:03   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     15:20:03   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+     15:20:09   [001] Connection with a server is open. Free memory (Kb) = 569208
+     15:20:09   [001] Begin registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     15:20:09   [001] Registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     15:20:09   [001] Close map, number = -1676
+     15:20:09   [001] User = rhbz. Open map. Name = 214_ЦИ.sitx
+     15:20:09   [001] [01] Open map. Read only.
+     15:20:09   [001] [01] Open map. number = 1. Path = /GISS/Sit/Sloi_Lis2/214_ЦИ.sitx
+     15:20:09   [001] [01] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+>>>> 15:20:37   [001] Check mode error. Access denied. data number = -1675
+     15:20:37   [001] User = rhbz. Open map. Name = 236_РХБЗ.sitx
+     15:20:37   [001] [02] Open map. number = 2. Path = /GISS/Sit/Sloi_Lis2/236_РХБЗ.sitx
+     15:20:37   [001] [02] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     15:41:27   [002] Connection with a server is open. Free memory (Kb) = 551600
+     15:41:27   [002] Begin registration of the user. User = ipb@DESKTOP-AT1NSFT
+     15:41:27   [002] Registration of the user. User = ipb@DESKTOP-AT1NSFT
+     15:57:06   [002] Connect timeout is over. Inactive time (min): 15
+     15:57:06   [002] Connection with a server is close. force = 0
+     16:16:04   [001] [01] Close map, number = 1
+     16:16:05   [001] Close map, number = 51241
+     16:16:05   [001] [02] Close map, number = 2
+     16:16:13   [002] Connection with a server is open. Free memory (Kb) = 551112
+     16:16:18   [002] Begin registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     16:16:18   [002] Registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     16:16:18   [002] User = rhbz. Open map. Name = 236_РХБЗ.sitx
+     16:16:18   [002] [01] Open map. number = 1. Path = /GISS/Sit/Sloi_Lis2/236_РХБЗ.sitx
+     16:16:18   [002] [01] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     16:16:19   [002] User = rhbz. Open map. Name = 211_ГрОПП.sitx
+     16:16:19   [002] [02] Open map. Read only.
+     16:16:19   [002] [02] Open map. number = 2. Path = /GISS/Sit/Sloi_Lis2/211_ГрОПП.sitx
+     16:16:19   [002] [02] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     16:16:19   [002] User = rhbz. Open map. Name = 214_ЦИ.sitx
+     16:16:19   [002] [03] Open map. Read only.
+     16:16:19   [002] [03] Open map. number = 3. Path = /GISS/Sit/Sloi_Lis2/214_ЦИ.sitx
+     16:16:19   [002] [03] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+---> 16:16:21   [001] Read socket error, connection was closed on the other side
+     16:16:21   [001] Connection with a server is close. force = 0
+
+
+---> 16:20:04   Start GIS Server x64 Standard v.9.0.0, key = 3167  09/02/2021 16:20:01
+     16:20:04   [PROTECT] NET = 0
+     16:20:04   Mapaccess library version: 20191218
+---> 16:20:04   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 16:20:04   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     16:20:04   Port number : 2047
+     16:20:04   Common rsc path: /usr/gisserver/CommonRsc/
+     16:20:04   User count = 13
+     16:20:04   DocStorage count = 0
+     16:20:04   Depot count = 0
+     16:20:04   DBConnection count = 0
+     16:20:04   Map count = 13
+     16:20:04   Matrix count = 0
+     16:20:04   Raster count = 0
+     16:20:04   Folder count = 0
+     16:20:04   Atlas count = 0
+     16:20:04   Role count = 14
+---> 16:20:04   End of reading parameters
+---> 16:20:04   The config.xml are not set - /usr/gisserver/config.xml
+---> 16:20:04   Connect timeout (min): 15
+     16:20:04   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     16:20:04   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+     16:20:43   [001] Connection with a server is open. Free memory (Kb) = 552928
+     16:20:43   [001] Begin registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     16:20:43   [001] Registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     16:20:43   [001] Close map, number = -33913
+     16:20:43   [001] User = rhbz. Open map. Name = 236_РХБЗ.sitx
+     16:20:43   [001] [01] Open map. number = 1. Path = /GISS/Sit/Sloi_Lis2/236_РХБЗ.sitx
+     16:20:43   [001] [01] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+>>>> 16:20:43   [001] Check mode error. Access denied. data number = -33912
+     16:20:43   [001] User = rhbz. Open map. Name = 211_ГрОПП.sitx
+     16:20:43   [001] [02] Open map. Read only.
+     16:20:43   [001] [02] Open map. number = 2. Path = /GISS/Sit/Sloi_Lis2/211_ГрОПП.sitx
+     16:20:43   [001] [02] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+>>>> 16:20:43   [001] Check mode error. Access denied. data number = -33911
+     16:20:43   [001] User = rhbz. Open map. Name = 214_ЦИ.sitx
+     16:20:43   [001] [03] Open map. Read only.
+     16:20:43   [001] [03] Open map. number = 3. Path = /GISS/Sit/Sloi_Lis2/214_ЦИ.sitx
+     16:20:43   [001] [03] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     16:28:28   [002] Connection with a server is open. Free memory (Kb) = 552344
+     16:28:28   [002] Begin registration of the user. User = ipb@DESKTOP-AT1NSFT
+     16:28:28   [002] Registration of the user. User = ipb@DESKTOP-AT1NSFT
+     16:28:55   [002] Close map, number = 17328
+     16:28:55   [002] Close map, number = 17327
+     16:28:55   [002] Close map, number = 17326
+---> 16:28:55   [002] Read socket error, connection was closed on the other side
+     16:28:55   [002] Connection with a server is close. force = 0
+     17:14:02   [001] [03] Close map, number = 3
+     17:14:02   [001] [02] Close map, number = 2
+     17:14:02   [001] [01] Close map, number = 1
+---> 17:14:02   [001] Read socket error, connection was closed on the other side
+     17:14:02   [001] Connection with a server is close. force = 0
+     17:14:06   [001] Connection with a server is open. Free memory (Kb) = 549628
+     17:14:08   [001] Begin registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     17:14:08   [001] Registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     17:14:09   [001] User = rhbz. Open map. Name = 236_РХБЗ.sitx
+     17:14:09   [001] [01] Open map. number = 1. Path = /GISS/Sit/Sloi_Lis2/236_РХБЗ.sitx
+     17:14:09   [001] [01] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     17:14:09   [001] User = rhbz. Open map. Name = 211_ГрОПП.sitx
+     17:14:09   [001] [02] Open map. Read only.
+     17:14:09   [001] [02] Open map. number = 2. Path = /GISS/Sit/Sloi_Lis2/211_ГрОПП.sitx
+     17:14:09   [001] [02] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     17:14:09   [001] User = rhbz. Open map. Name = 214_ЦИ.sitx
+     17:14:09   [001] [03] Open map. Read only.
+     17:14:09   [001] [03] Open map. number = 3. Path = /GISS/Sit/Sloi_Lis2/214_ЦИ.sitx
+     17:14:09   [001] [03] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+
+
+---> 17:20:03   Start GIS Server x64 Standard v.9.0.0, key = 3167  09/02/2021 17:20:01
+     17:20:03   [PROTECT] NET = 0
+     17:20:03   Mapaccess library version: 20191218
+---> 17:20:03   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 17:20:03   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     17:20:03   Port number : 2047
+     17:20:03   Common rsc path: /usr/gisserver/CommonRsc/
+     17:20:03   User count = 13
+     17:20:03   DocStorage count = 0
+     17:20:03   Depot count = 0
+     17:20:03   DBConnection count = 0
+     17:20:03   Map count = 13
+     17:20:03   Matrix count = 0
+     17:20:03   Raster count = 0
+     17:20:03   Folder count = 0
+     17:20:03   Atlas count = 0
+     17:20:03   Role count = 14
+---> 17:20:03   End of reading parameters
+---> 17:20:03   The config.xml are not set - /usr/gisserver/config.xml
+---> 17:20:03   Connect timeout (min): 15
+     17:20:03   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     17:20:03   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+     17:20:36   [001] Connection with a server is open. Free memory (Kb) = 547808
+     17:20:36   [001] Begin registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     17:20:36   [001] Registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     17:20:36   [001] Close map, number = 6694
+     17:20:36   [001] User = rhbz. Open map. Name = 236_РХБЗ.sitx
+     17:20:36   [001] [01] Open map. number = 1. Path = /GISS/Sit/Sloi_Lis2/236_РХБЗ.sitx
+     17:20:36   [001] [01] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+>>>> 17:20:36   [001] Check mode error. Access denied. data number = 6695
+     17:20:36   [001] User = rhbz. Open map. Name = 211_ГрОПП.sitx
+     17:20:36   [001] [02] Open map. Read only.
+     17:20:36   [001] [02] Open map. number = 2. Path = /GISS/Sit/Sloi_Lis2/211_ГрОПП.sitx
+     17:20:36   [001] [02] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+>>>> 17:20:36   [001] Check mode error. Access denied. data number = 6696
+     17:20:36   [001] User = rhbz. Open map. Name = 214_ЦИ.sitx
+     17:20:36   [001] [03] Open map. Read only.
+     17:20:36   [001] [03] Open map. number = 3. Path = /GISS/Sit/Sloi_Lis2/214_ЦИ.sitx
+     17:20:36   [001] [03] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     17:44:02   [001] [03] Close map, number = 3
+     17:44:02   [001] [02] Close map, number = 2
+     17:44:02   [001] [01] Close map, number = 1
+---> 17:44:02   [001] Read socket error, connection was closed on the other side
+     17:44:02   [001] Connection with a server is close. force = 0
+     17:44:05   [001] Connection with a server is open. Free memory (Kb) = 550180
+     17:44:10   [001] Begin registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     17:44:10   [001] Registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     17:44:10   [001] User = rhbz. Open map. Name = 236_РХБЗ.sitx
+     17:44:10   [001] [01] Open map. number = 1. Path = /GISS/Sit/Sloi_Lis2/236_РХБЗ.sitx
+     17:44:10   [001] [01] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     17:44:10   [001] User = rhbz. Open map. Name = 211_ГрОПП.sitx
+     17:44:10   [001] [02] Open map. Read only.
+     17:44:10   [001] [02] Open map. number = 2. Path = /GISS/Sit/Sloi_Lis2/211_ГрОПП.sitx
+     17:44:10   [001] [02] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+     17:44:10   [001] User = rhbz. Open map. Name = 214_ЦИ.sitx
+     17:44:10   [001] [03] Open map. Read only.
+     17:44:10   [001] [03] Open map. number = 3. Path = /GISS/Sit/Sloi_Lis2/214_ЦИ.sitx
+     17:44:10   [001] [03] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+
+
+---> 18:20:04   Start GIS Server x64 Standard v.9.0.0, key = 3167  09/02/2021 18:20:02
+     18:20:04   [PROTECT] NET = 0
+     18:20:04   Mapaccess library version: 20191218
+---> 18:20:04   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 18:20:04   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     18:20:04   Port number : 2047
+     18:20:04   Common rsc path: /usr/gisserver/CommonRsc/
+     18:20:04   User count = 13
+     18:20:04   DocStorage count = 0
+     18:20:04   Depot count = 0
+     18:20:04   DBConnection count = 0
+     18:20:04   Map count = 13
+     18:20:04   Matrix count = 0
+     18:20:04   Raster count = 0
+     18:20:04   Folder count = 0
+     18:20:04   Atlas count = 0
+     18:20:04   Role count = 14
+---> 18:20:04   End of reading parameters
+---> 18:20:04   The config.xml are not set - /usr/gisserver/config.xml
+---> 18:20:04   Connect timeout (min): 15
+     18:20:04   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     18:20:04   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+     18:20:36   [001] Connection with a server is open. Free memory (Kb) = 552096
+     18:20:36   [001] Begin registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     18:20:36   [001] Registration of the user. User = rhbz@УРХБЗИЭ-ПК
+     18:20:36   [001] Close map, number = 682
+     18:20:36   [001] User = rhbz. Open map. Name = 236_РХБЗ.sitx
+     18:20:36   [001] [01] Open map. number = 1. Path = /GISS/Sit/Sloi_Lis2/236_РХБЗ.sitx
+     18:20:36   [001] [01] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+>>>> 18:20:36   [001] Check mode error. Access denied. data number = 683
+     18:20:36   [001] User = rhbz. Open map. Name = 211_ГрОПП.sitx
+     18:20:36   [001] [02] Open map. Read only.
+     18:20:36   [001] [02] Open map. number = 2. Path = /GISS/Sit/Sloi_Lis2/211_ГрОПП.sitx
+     18:20:36   [001] [02] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc
+>>>> 18:20:36   [001] Check mode error. Access denied. data number = 684
+     18:20:36   [001] User = rhbz. Open map. Name = 214_ЦИ.sitx
+     18:20:36   [001] [03] Open map. Read only.
+     18:20:36   [001] [03] Open map. number = 3. Path = /GISS/Sit/Sloi_Lis2/214_ЦИ.sitx
+     18:20:36   [001] [03] Open map. Rsc = /GISS/Sit/Sloi_Lis2/otz16rb.rsc

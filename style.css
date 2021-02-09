@@ -1,0 +1,45 @@
+.container {
+    margin: 0 auto;
+    margin: 50px;
+    height: 100vh;
+}
+
+.section_log,
+.section_table {
+    height: 50%;
+    display: block;
+}
+
+.title_log,
+.title_table {
+    text-align: center;
+}
+
+.log_item {
+    height: 80%;
+    overflow: auto;
+    padding: 30px;
+    font-size: 16px;
+    border: 2px solid rgb(102, 93, 93)
+}
+
+table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: #ECE9E0;
+    color: #656665;
+    border: 16px solid #ECE9E0;
+    border-radius: 20px;
+}
+
+th {
+    font-size: 14px;
+    padding: 10px;
+}
+
+td {
+    background: #F5D7BF;
+    padding: 10px;
+}
