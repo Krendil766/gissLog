@@ -1,12 +1,14 @@
 .container {
     margin: 0 auto;
-    margin: 50px;
+    margin: 0 50px;
     height: 100vh;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 12px;
 }
 
 .section_log,
 .section_table {
-    height: 50%;
+    height: 45%;
     display: block;
 }
 
@@ -15,16 +17,16 @@
     text-align: center;
 }
 
-.log_item {
+.log_item,
+.table_item {
     height: 80%;
     overflow: auto;
-    padding: 30px;
+    padding: 20px;
     font-size: 16px;
     border: 2px solid rgb(102, 93, 93)
 }
 
 table {
-    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
     text-align: left;
     border-collapse: separate;
     border-spacing: 5px;
@@ -35,7 +37,6 @@ table {
 }
 
 th {
-    font-size: 14px;
     padding: 10px;
 }
 
