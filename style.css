@@ -1,3 +1,18 @@
+body {
+    background: url(./img/fon.gif) no-repeat fixed center;
+}
+
+.header {
+    background: url(img/head2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 80px;
+    position: relative;
+    z-index: 5;
+    margin-bottom: 5px;
+}
+
 .container {
     margin: 0 auto;
     margin: 0 50px;
@@ -10,11 +25,16 @@
 .section_table {
     height: 45%;
     display: block;
+    margin-bottom: -35px;
 }
 
-.title_log,
 .title_table {
-    text-align: center;
+    background: url(img/head1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 80px;
+    margin-bottom: 5px;
 }
 
 .log_item,
@@ -23,7 +43,9 @@
     overflow: auto;
     padding: 20px;
     font-size: 16px;
-    border: 2px solid rgb(102, 93, 93)
+    border: 2px solid rgb(102, 93, 93);
+    background-color: rgb(161, 189, 202, 0.8);
+    z-index: 50;
 }
 
 table {
@@ -34,6 +56,7 @@ table {
     color: #656665;
     border: 16px solid #ECE9E0;
     border-radius: 20px;
+    width: 100%;
 }
 
 th {
